@@ -4,12 +4,13 @@
 	padding:30px;
 	width:500px;
 }
-.container p{
+.testimonial p{
 	padding:10px;
 	background-color:white;
-	border:none;
 	font-size:10px;
 }
-.container span{
+.container i{
 	text-align:right;
+	display:block;
+	font-style:italic;
 	}
