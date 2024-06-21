@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.container{
+	background-color:#f5f5f5;
+	padding:30px;
+	width:500px;
+}
+.container p{
+	padding:10px;
+	background-color:white;
+	border:none;
+	font-size:10px;
+}
+.container span{
+	text-align:right;
+	}
